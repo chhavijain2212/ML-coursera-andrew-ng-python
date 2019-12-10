@@ -4,4 +4,6 @@ I am currently working on the ML course by Andrew Ng available on coursera  (htt
 
 This is the repository of the jupyter notebook of my assignment implementations. Though I implemented them few months ago, I am adding explanations to them and uploading them now.
 
+Also, I have taken reference from Benjamin Lau's implementations of the same(https://medium.com/@ben_lau93)
+
 ml coursera - dataset and instructions for assignments
